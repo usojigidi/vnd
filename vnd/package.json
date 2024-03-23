@@ -1,6 +1,6 @@
 {
   "name": "vnd",
-  "version": "1.1.5",
+  "version": "1.1.4",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/usojigidi/vnd.git"
+    "url": "https://github.com/usojigidi/vnd"
   },
   "author": "",
   "license": "ISC",
